@@ -12,7 +12,7 @@ html {
     margin: auto;
 }
 .header{
-    background-image:url(/images/head-background.jpg);
+    background-image:url(./images/head-background.jpg);
     height: 1060px;
     background-repeat: no-repeat;
     margin: auto;
